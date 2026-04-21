@@ -12,7 +12,8 @@ Innov'IA rassemble des étudiants de tous niveaux autour d'un objectif commun :
 développer des compétences solides en intelligence artificielle à travers la
 pratique, l'entraide et la participation à des projets concrets.
 
-<img width="1694" height="809" alt="image" src="https://github.com/user-attachments/assets/ce4bb505-060d-4590-9e69-d30bde0c1912" />
+<img width="1412" height="789" alt="Capture d&#39;écran 2026-04-21 224826" src="https://github.com/user-attachments/assets/e38a4d73-5e8f-41cd-8e76-08fddce54698" />
+
 
 
 ## Activités
