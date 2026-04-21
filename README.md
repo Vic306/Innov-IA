@@ -1,4 +1,6 @@
 # Innov'IA — Club Intelligence Artificielle de l'UTT
+<img width="799" height="133" alt="image" src="https://github.com/user-attachments/assets/dc33c3cf-873d-431c-99d1-5b49f133a9c3" />
+
 
 Club étudiant de l'Université de Technologie de Troyes dédié à l'apprentissage
 et à la pratique de l'intelligence artificielle.
@@ -46,10 +48,3 @@ Chaque compétition dispose d'un espace dédié structuré comme suit :
 - Renforcer son profil dans un domaine en forte croissance
 - Travailler en équipe dans un cadre bienveillant et stimulant
 - Concourir et se mesurer à d'autres équipes sur Kaggle
-
-## Rejoindre le club
-
-Lien Discord : [à compléter]
-Contact : [à compléter]
-
-*Université de Technologie de Troyes — depuis 2026*
