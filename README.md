@@ -1,5 +1,5 @@
-# Innov'IA — Club Intelligence Artificielle de l'UTT
 <img width="799" height="133" alt="image" src="https://github.com/user-attachments/assets/dc33c3cf-873d-431c-99d1-5b49f133a9c3" />
+# Innov'IA — Club Intelligence Artificielle de l'UTT
 
 
 Club étudiant de l'Université de Technologie de Troyes dédié à l'apprentissage
