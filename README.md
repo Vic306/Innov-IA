@@ -27,9 +27,9 @@ Chaque compétition suit un processus structuré en trois phases :
 
 | Étape | Description |
 |-------|-------------|
-| 1. Analyse | Compréhension et cadrage de la problématique |
-| 2. Développement | Conception et entraînement du modèle via notebook |
-| 3. Soumission | Dépôt des résultats et positionnement au classement |
+| Analyse | Compréhension et cadrage de la problématique |
+| Développement | Conception et entraînement du modèle via notebook |
+| Soumission | Dépôt des résultats et positionnement au classement |
 
 ### Ateliers et formations
 
